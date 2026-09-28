@@ -1,0 +1,9 @@
+INTEGRANTES DEL PROYECTO - TOWER DEFENSE
+1. Jesus Rodriguez - Usuario GitHub: JehuRodriguez
+   Tarea asignada: Clases base (Tower abstracta, Enemy, interfaces IAtacante/IMovible, herencia, polimorfismo y montaje e prefabs principales)
+
+2. Jeferson Andree Cardenas Prado - Usuario GitHub: andresinlimites@gmail.com
+   Tarea asignada: GameManager (Singleton) en Unity  + sistema de eventosy  patrón Observer para actualizacion de UI/estado de juego
+
+3. Engel Nick Indo - Usuario GitHub: engelnickolas@gmail.com
+   Tarea asignada: Lógica de Fibonacci(oleada de enemigos)  + Game Loop / Controlador de flujo en Unity.
